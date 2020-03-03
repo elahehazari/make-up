@@ -1,0 +1,45 @@
+p {
+    color: white;
+}
+
+li, p {
+    background-color: white;
+}
+
+body {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+h1 {
+    text-align: center;
+    border-width: 5px;
+    border-color: rgb(61, 11, 13);
+    border-style: solid;
+    border-radius: 10px;
+}
+
+img {
+    width: 500px;
+    border: solid 10px black;
+}
+
+#paragragh1 {
+    font-size: 32px;
+}
+
+.boldOne {
+    color: rgb(12, 11, 9);
+}
+
+div span {
+    font-weight: 900;
+}
+
+p span {
+    text-decoration: underline;
+}
+
+li:hover {
+    font-weight: 900;
+}
